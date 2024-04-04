@@ -145,7 +145,7 @@ const Blogs = () => {
                         </div>
                     </div>
                     <p className='text-white'>
-                    Buy and Sell Your Books For the Best Prices" encapsulates a platform that facilitates both the
+                    Buy and Sell Your Books For the Best Prices encapsulates a platform that facilitates both the
                      purchasing and selling of books at competitive and favorable rates.
                     </p>                
                 </div>
