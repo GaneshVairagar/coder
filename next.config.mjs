@@ -1,18 +1,15 @@
 // next.config.mjs
 
-import { createRequire } from 'module';
-
-const require = createRequire(import.meta.url);
-
 const nextConfig = {
-  output: 'export',
+  // Your Next.js configuration
   reactStrictMode: true,
   images: {
     unoptimized: true,
   },
-  
 };
 
-
-
-export default nextConfig;
+export default {
+  ...nextConfig,
+  // Specify the export directory
+  distDir: 'out',
+};
