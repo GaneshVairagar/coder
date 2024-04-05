@@ -13,11 +13,6 @@ const nextConfig = {
   
 };
 
-module.exports = {
-  // Your Next.js configuration
-  distDir: '.next', // This is the default, but make sure it's not changed
-  // Specify the export path
-  outDir: 'out',
-};
+
 
 export default nextConfig;
