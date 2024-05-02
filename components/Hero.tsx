@@ -38,7 +38,7 @@ const Hero = () => {
                     data-aos="zoom-in"
                     className='w-[500px] hidden bg-[#00ffff] relative lg:flex items-center rounded-full h-[500px]'>
                     <Image
-                        src="/images/profile.jpg"
+                        src="/images/banner2.jpg"
                         alt="user"
                         layout="fill"
                         className="object-cover rounded-full"
